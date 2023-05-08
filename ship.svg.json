@@ -1,0 +1,802 @@
+{
+  "name": "svg",
+  "type": "element",
+  "value": "",
+  "attributes": {
+    "width": "1076",
+    "height": "162",
+    "viewBox": "0 0 1076 162",
+    "fill": "none",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  "children": [
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M24.9868 8.4083L0 31.391V44.8443H282.35L291.845 54.9343H318.331L357.311 78.4775L330.825 91.3702C312.834 91.3702 301.007 101.46 297.342 106.505H282.35V113.792H294.844L300.341 119.958H442.765L493.239 131.73L526.221 162H613.175L795.579 100.415H887.03L891.528 95.3702H966.988L970.486 91.4464H992.474L996.472 86.9619H1017.46L1021.96 81.917H1075C1075 81.917 1077.43 56.6159 989.476 48.2076L982.48 40.9204L950.996 33.6332L884.531 22.4221L877.535 15.1349H868.54L862.043 8.4083H851.049L846.552 3.92388H820.066L815.568 8.4083H786.084L780.087 15.1349H704.627L696.631 22.9827L671.644 28.5882L665.148 22.9827L620.171 28.5882L613.175 35.8754L501.734 59.9792L497.736 64.4637L435.769 73.9931L390.793 54.9343H459.756C482.911 51.0104 529.12 40.2477 528.72 28.5882C528.32 16.9287 475.248 7.2872 448.762 3.92388L445.764 0H431.771L425.774 6.72664L419.778 0H405.785L399.788 3.92388H373.302V8.4083L94.45 13.4533L89.9523 8.4083H24.9868Z",
+        "fill": "#2D303F"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M994.5 74.5H858.5V78.5H994.5V74.5Z",
+        "fill": "#EE92EF",
+        "stroke": "#EE92EF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M940.5 82.5H858.5V86.5H940.5V82.5Z",
+        "fill": "#EE92EF",
+        "stroke": "#EE92EF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M947.5 82.5H943.5V86.5H947.5V82.5Z",
+        "fill": "#EE92EF",
+        "stroke": "#EE92EF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M423.5 90.5H598.5V94.5H423.5V90.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M527.5 82.5H598.5V86.5H527.5V82.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M527.5 74.5H598.5V78.5H527.5V74.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M411.5 90.5H420.5V94.5H411.5V90.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M405.5 90.5H408.5V94.5H405.5V90.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M515.5 82.5H524.5V86.5H515.5V82.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M515.5 74.5H524.5V78.5H515.5V74.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M671.5 58.5H680.5V62.5H671.5V58.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M705 79H704V104H705V79Z",
+        "fill": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M661 79H660V104H661V79Z",
+        "fill": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M938.5 50.5H739.5V54.5H938.5V50.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M850.5 42.5H793.5V46.5H850.5V42.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M850.5 34.5H814.5V38.5H850.5V34.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M850.5 26.5H814.5V30.5H850.5V26.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M811.5 34.5H808.5V38.5H811.5V34.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M869.5 42.5H853.5V46.5H869.5V42.5Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M809.75 55.25H809.25V73.75H809.75V55.25Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40",
+        "stroke-width": "0.5"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M838.75 55.25H838.25V73.75H838.75V55.25Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40",
+        "stroke-width": "0.5"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M894.75 55.25H894.25V73.75H894.75V55.25Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40",
+        "stroke-width": "0.5"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M894.75 68.25H894.25V72.75H894.75V68.25Z",
+        "fill": "#FE9C40",
+        "stroke": "#FE9C40",
+        "stroke-width": "0.5"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M583 109H582V125H583V109Z",
+        "fill": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M536 109H535V125H536V109Z",
+        "fill": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M577 109H576V137H577V109Z",
+        "fill": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M661 46H660V51H661V46Z",
+        "fill": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M721 79H720V104H721V79Z",
+        "fill": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M583 54H582V104H583V54Z",
+        "fill": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M462.5 16.5H456.5V46.5H462.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M453.5 16.5H447.5V46.5H453.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M444.5 16.5H438.5V46.5H444.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M435.5 16.5H429.5V46.5H435.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M426.5 16.5H420.5V46.5H426.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M472.5 16.5H466.5V26.5H472.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M68.5 23.5H29.5V34.5H68.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M408.5 104.5H359.5V108.5H408.5V104.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M728.5 104.5H411.5V108.5H728.5V104.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M593.5 122.5H510.5V126.5H593.5V122.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M593.5 129.5H510.5V133.5H593.5V129.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M615.5 122.5H596.5V126.5H615.5V122.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M627.5 122.5H618.5V126.5H627.5V122.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M633.5 122.5H630.5V126.5H633.5V122.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M639.5 122.5H636.5V126.5H639.5V122.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M618.5 136.5H535.5V140.5H618.5V136.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M363.5 23.5H101.5V34.5H363.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M363.75 45.25H363.25V103.75H363.75V45.25Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6",
+        "stroke-width": "0.5"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M388.5 16.5H363.5V46.5H388.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M397.5 16.5H391.5V46.5H397.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M403.5 16.5H400.5V26.5H403.5V16.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M351.5 19.5H309.5V26.5H351.5V19.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M98.5 23.5H91.5V34.5H98.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M88.5 23.5H86.5V34.5H88.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M83.5 23.5H81.5V34.5H83.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M78.5 23.5H76.5V34.5H78.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M73.5 23.5H71.5V34.5H73.5V23.5Z",
+        "fill": "#8FC9A6",
+        "stroke": "#8FC9A6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M527.5 66.5H598.5V70.5H527.5V66.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M559.5 58.5H667.5V62.5H559.5V58.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M579.5 50.5H667.5V54.5H579.5V50.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M665.5 34.5H733.5V38.5H665.5V34.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M616.5 42.5H680.5V46.5H616.5V42.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M683.5 42.5H695.5V46.5H683.5V42.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M698.5 42.5H702.5V46.5H698.5V42.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M705.5 42.5H709.5V46.5H705.5V42.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M671.5 50.5H680.5V54.5H671.5V50.5Z",
+        "fill": "#8BAAFF",
+        "stroke": "#8BAAFF"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M855.5 74.5H637.5V78.5H855.5V74.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M667.5 82.5H637.5V86.5H667.5V82.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M855.5 82.5H825.5V86.5H855.5V82.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M667.5 90.5H637.5V94.5H667.5V90.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M617.5 74.5H615.5V78.5H617.5V74.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "d": "M634.5 74.5H620.5V78.5H634.5V74.5Z",
+        "fill": "#D9D9D9",
+        "stroke": "#D9D9D9"
+      },
+      "children": []
+    }
+  ]
+}
