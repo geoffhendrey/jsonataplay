@@ -1,4 +1,10 @@
-{
+{ "props": {
+     "zoink":"yo",
+     "koink":{
+       "nozzle":"bingus",
+       "dingus":"doink"
+     }
+  }
   "foo":"bar",
   "baz": "zap"
 }
