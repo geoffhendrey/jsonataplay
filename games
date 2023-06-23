@@ -1,0 +1,5 @@
+{
+   "games":[ "chess", "checkers", "backgammon", "poker", "Theaterwide Biotoxic and Chemical Warfare", "Global Thermonuclear War"],
+   "selected":"Global Thermonuclear War",
+   "player": "?"
+}
