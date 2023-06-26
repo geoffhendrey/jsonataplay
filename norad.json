@@ -1,0 +1,12 @@
+{
+  "organization": "NORAD",
+  "location": "Cheyenne Mountain Complex, Colorado",
+  "commander": "General Beringer",
+  "purpose": "Provide aerospace warning, air sovereignty, and defense for North America",
+  "systems": [
+    "Ballistic Missile Early Warning System (BMEWS)",
+    "North Warning System (NWS)",
+    "Space-Based Infrared System (SBIRS)",
+    "Cheyenne Mountain Complex"
+  ]
+}
