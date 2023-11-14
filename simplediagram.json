@@ -1,0 +1,964 @@
+{
+    "name": "svg",
+    "type": "element",
+    "value": "",
+    "attributes": {
+        "viewBox": "0 0 500 500",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink",
+        "xmlns:bx": "https://boxy-svg.com"
+    },
+    "children": [
+        {
+            "name": "defs",
+            "type": "element",
+            "value": "",
+            "attributes": {},
+            "children": [
+                {
+                    "name": "filter",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "g",
+                        "x": "-.06426",
+                        "y": "-.19277",
+                        "width": "1.1285",
+                        "height": "1.3855"
+                    },
+                    "children": [
+                        {
+                            "name": "feGaussianBlur",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stdDeviation": ".8925"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#fff",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#fff",
+                                "stop-opacity": "0",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "f",
+                        "x1": "288.41",
+                        "x2": "308.09",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#c6c6c6",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0.2048"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "e",
+                        "x1": "282.36",
+                        "x2": "286.63",
+                        "y1": "518.56",
+                        "y2": "527.34",
+                        "gradientUnits": "userSpaceOnUse"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "d",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "522.86",
+                        "y2": "520.58",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "c",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "534.61",
+                        "y2": "532.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "b",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "544.61",
+                        "y2": "542.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "gradient-1",
+                        "x1": "288.41",
+                        "x2": "308.09",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#c6c6c6",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0.2048"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "gradient-2",
+                        "x1": "282.36",
+                        "x2": "286.63",
+                        "y1": "518.56",
+                        "y2": "527.34",
+                        "gradientUnits": "userSpaceOnUse"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-1",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "522.86",
+                        "y2": "520.58",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-2",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "534.61",
+                        "y2": "532.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-3",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "544.61",
+                        "y2": "542.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "gradient-3",
+                        "x1": "288.41",
+                        "x2": "308.09",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#c6c6c6",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0.2048"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "gradient-4",
+                        "x1": "282.36",
+                        "x2": "286.63",
+                        "y1": "518.56",
+                        "y2": "527.34",
+                        "gradientUnits": "userSpaceOnUse"
+                    },
+                    "children": [
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#e3e3e3",
+                                "offset": "0"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "stop",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "stop-color": "#a5a5a8",
+                                "offset": "1"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-4",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "522.86",
+                        "y2": "520.58",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-5",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "534.61",
+                        "y2": "532.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                },
+                {
+                    "name": "linearGradient",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "id": "a-6",
+                        "x1": "308.5",
+                        "x2": "327.78",
+                        "y1": "544.61",
+                        "y2": "542.33",
+                        "gradientUnits": "userSpaceOnUse",
+                        "spreadMethod": "reflect",
+                        "xlink:href": "#a"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "transform": "matrix(0.30848, 0, 0, 0.274039, 133.270538, 225.476608)",
+                "style": ""
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "transform": "matrix(4.1992 0 0 4.1992 -1200.4 -2144.5)"
+                    },
+                    "children": [
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -65.984)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "#2e3436",
+                                "filter": "url(#g)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.40625,517.5v30.09191h.125c-.0806.24126-.125.47032-.125.71875 0,3.6263 8.80861,6.5625 19.6875,6.5625s19.6875-2.9362 19.6875-6.5625c0-.24879-.0442-.47715-.125-.71875h.125v-30.09191h-39.375z",
+                                "fill": "url(#f)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -99.394)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "url(#e)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 517.34c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-0.21572 0.18349-0.44078 0.35509-0.6875 0.53125l-0.0312 0.0312c-2.2921 2.7774-9.9035 4.8125-18.969 4.8125-9.122 0-16.786-2.0707-19.031-4.875l-0.0625-0.0625c-0.21872-0.15969-0.43159-0.30323-0.625-0.46875z",
+                                "fill": "url(#d)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "g",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "translate(0,-.52315)"
+                            },
+                            "children": [
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                        "fill": "#565656"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                        "fill": "url(#c)"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                "fill": "url(#b)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.5 549.94c1.126 3.27 9.481 5.7812 19.594 5.7812 10.021 0 18.289-2.492 19.531-5.7188-3.5163 2.8678-10.929 4.8438-19.531 4.8438-8.6478 0-16.1-2.0137-19.594-4.9062z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "animatedLine0",
+                "style": "",
+                "transform": "matrix(1.010888, 0, 0, 1.115472, -1.082735, -20.204208)"
+            },
+            "children": [
+                {
+                    "name": "line",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "style": "stroke-dasharray: 4; paint-order: stroke; fill: rgb(72, 185, 85); stroke: rgb(31, 133, 34);",
+                        "x1": "99.441",
+                        "y1": "174.97",
+                        "x2": "160.81",
+                        "y2": "226.087"
+                    },
+                    "children": [
+                        {
+                            "name": "animate",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "attributeName": "stroke-dashoffset",
+                                "from": "0",
+                                "to": "8",
+                                "dur": "2s",
+                                "repeatCount": "indefinite"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "transform": "matrix(0.734421, 0, 0, 0.734421, 274.896484, 187.819672)"
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "transform": "matrix(4.1992 0 0 4.1992 -1200.4 -2144.5)"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "transform": "matrix(-0.934542, 0, 0, 0.950104, 313.885193, 12.067222)",
+                "style": ""
+            },
+            "children": []
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "transform": "matrix(0.30848, 0, 0, 0.274039, 201.707657, 122.85688)",
+                "style": ""
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "transform": "matrix(4.1992 0 0 4.1992 -1200.4 -2144.5)"
+                    },
+                    "children": [
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -65.984)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "#2e3436",
+                                "filter": "url(#g)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.40625,517.5v30.09191h.125c-.0806.24126-.125.47032-.125.71875 0,3.6263 8.80861,6.5625 19.6875,6.5625s19.6875-2.9362 19.6875-6.5625c0-.24879-.0442-.47715-.125-.71875h.125v-30.09191h-39.375z",
+                                "fill": "url(#gradient-1)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -99.394)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "url(#gradient-2)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 517.34c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-0.21572 0.18349-0.44078 0.35509-0.6875 0.53125l-0.0312 0.0312c-2.2921 2.7774-9.9035 4.8125-18.969 4.8125-9.122 0-16.786-2.0707-19.031-4.875l-0.0625-0.0625c-0.21872-0.15969-0.43159-0.30323-0.625-0.46875z",
+                                "fill": "url(#a-1)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "g",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "translate(0,-.52315)"
+                            },
+                            "children": [
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                        "fill": "#565656"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                        "fill": "url(#a-2)"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                "fill": "url(#a-3)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.5 549.94c1.126 3.27 9.481 5.7812 19.594 5.7812 10.021 0 18.289-2.492 19.531-5.7188-3.5163 2.8678-10.929 4.8438-19.531 4.8438-8.6478 0-16.1-2.0137-19.594-4.9062z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "transform": "matrix(0.30848, 0, 0, 0.274039, 69.666191, 122.85688)",
+                "style": ""
+            },
+            "children": [
+                {
+                    "name": "g",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "transform": "matrix(4.1992 0 0 4.1992 -1200.4 -2144.5)"
+                    },
+                    "children": [
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -65.984)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "#2e3436",
+                                "filter": "url(#g)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.40625,517.5v30.09191h.125c-.0806.24126-.125.47032-.125.71875 0,3.6263 8.80861,6.5625 19.6875,6.5625s19.6875-2.9362 19.6875-6.5625c0-.24879-.0442-.47715-.125-.71875h.125v-30.09191h-39.375z",
+                                "fill": "url(#gradient-3)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "matrix(1.1818 0 0 1.1818 -30.649 -99.394)",
+                                "d": "m303.3 521.78c0 3.0684-7.4623 5.5558-16.668 5.5558s-16.668-2.4874-16.668-5.5558 7.4623-5.5558 16.668-5.5558 16.668 2.4874 16.668 5.5558z",
+                                "fill": "url(#gradient-4)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 517.34c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-0.21572 0.18349-0.44078 0.35509-0.6875 0.53125l-0.0312 0.0312c-2.2921 2.7774-9.9035 4.8125-18.969 4.8125-9.122 0-16.786-2.0707-19.031-4.875l-0.0625-0.0625c-0.21872-0.15969-0.43159-0.30323-0.625-0.46875z",
+                                "fill": "url(#a-4)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "g",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "transform": "translate(0,-.52315)"
+                            },
+                            "children": [
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375-3.4515 2.9359-10.959 4.9688-19.688 4.9688-8.7461 0-16.277-2.0544-19.719-5z",
+                                        "fill": "#565656"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "name": "path",
+                                    "type": "element",
+                                    "value": "",
+                                    "attributes": {
+                                        "d": "m288.38 529.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                        "fill": "url(#a-5)"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.38 539.09c0.14735 3.584 8.9318 6.4688 19.719 6.4688 10.756 0 19.492-2.8677 19.688-6.4375l-0.15625 0.125c-1.2422 3.2268-9.5106 5.7188-19.531 5.7188-10.113 0-18.468-2.5112-19.594-5.7812l-0.125-0.0937z",
+                                "fill": "url(#a-6)"
+                            },
+                            "children": []
+                        },
+                        {
+                            "name": "path",
+                            "type": "element",
+                            "value": "",
+                            "attributes": {
+                                "d": "m288.5 549.94c1.126 3.27 9.481 5.7812 19.594 5.7812 10.021 0 18.289-2.492 19.531-5.7188-3.5163 2.8678-10.929 4.8438-19.531 4.8438-8.6478 0-16.1-2.0137-19.594-4.9062z",
+                                "fill": "#565656"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "line",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "style": "stroke-dasharray: 4; stroke-width:5; paint-order: stroke; fill: rgb(72, 185, 85); stroke: rgb(31, 133, 34);",
+                "x1": "164.855",
+                "y1": "228.804",
+                "x2": "233.216",
+                "y2": "174.97",
+                "id": "animatedLine1"
+            },
+            "children": [
+                {
+                    "name": "animate",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "attributeName": "stroke-dashoffset",
+                        "from": "8",
+                        "to": "0",
+                        "dur": "1s",
+                        "repeatCount": "indefinite"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "text",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "link1",
+                "style": "fill: rgb(30, 133, 34); font-size: 8.9px; white-space: pre;",
+                "x": "72.925",
+                "y": "213.109"
+            },
+            "children": [
+                {
+                    "name": "",
+                    "type": "text",
+                    "value": "500 Mbps ",
+                    "attributes": {},
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "text",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "link2",
+                "style": "fill: rgb(30, 133, 34); font-size: 8.9px; white-space: pre;",
+                "x": "204.967",
+                "y": "209.76"
+            },
+            "children": [
+                {
+                    "name": "",
+                    "type": "text",
+                    "value": "1000 Mbps ",
+                    "attributes": {},
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
