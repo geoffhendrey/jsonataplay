@@ -1,0 +1,187 @@
+{
+    "name": "svg",
+    "type": "element",
+    "value": "",
+    "attributes": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "xmlns:cc": "http://web.resource.org/cc/",
+        "xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xmlns:sodipodi": "http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd",
+        "xmlns:inkscape": "http://www.inkscape.org/namespaces/inkscape",
+        "version": "1.1",
+        "baseProfile": "full",
+        "width": "480px",
+        "height": "360px",
+        "viewBox": "0 0 480 360",
+        "preserveAspectRatio": "xMidYMid meet",
+        "id": "svg_document",
+        "style": "zoom: 1;"
+    },
+    "children": [
+        {
+            "name": "title",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "svg_document_title"
+            },
+            "children": [
+                {
+                    "name": "",
+                    "type": "text",
+                    "value": "Untitled.svg",
+                    "attributes": {},
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "defs",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "svg_document_defs"
+            },
+            "children": []
+        },
+        {
+            "name": "g",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "id": "main_group"
+            },
+            "children": [
+                {
+                    "name": "rect",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "height": "360px",
+                        "x": "0px",
+                        "y": "0px",
+                        "id": "background_rect",
+                        "width": "480px",
+                        "fill": "black"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "rect",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "stroke": "#000000",
+                "x": "106px",
+                "height": "60px",
+                "y": "83px",
+                "id": "rect1",
+                "stroke-width": "3px",
+                "width": "73px",
+                "fill": "#ffffff",
+                "transform": ""
+            },
+            "children": []
+        },
+        {
+            "name": "rect",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "stroke": "#000000",
+                "x": "298px",
+                "height": "60px",
+                "y": "82px",
+                "stroke-width": "3px",
+                "width": "73px",
+                "id": "rect2",
+                "fill": "#ffffff",
+                "transform": ""
+            },
+            "children": []
+        },
+        {
+            "name": "rect",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "stroke": "#000000",
+                "x": "195px",
+                "height": "60px",
+                "y": "195px",
+                "stroke-width": "3px",
+                "width": "73px",
+                "id": "rect3",
+                "fill": "#ffffff",
+                "transform": ""
+            },
+            "children": []
+        },
+        {
+            "name": "line",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "stroke": "gold",
+                "y1": "142px",
+                "id": "line1",
+                "stroke-width": "3px",
+                "x1": "140px",
+                "y2": "196px",
+                "x2": "231px",
+                "transform": "",
+                "stroke-dasharray": "4"
+            },
+            "children": [
+                {
+                    "name": "animate",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "attributeName": "stroke-dashoffset",
+                        "from": "0",
+                        "to": "8",
+                        "dur": "2s",
+                        "repeatCount": "indefinite"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "line",
+            "type": "element",
+            "value": "",
+            "attributes": {
+                "stroke": "gold",
+                "y1": "197px",
+                "id": "line2",
+                "stroke-width": "3px",
+                "x1": "236px",
+                "y2": "141px",
+                "x2": "333px",
+                "transform": "",
+                "stroke-dasharray": "4"
+            },
+            "children": [
+                {
+                    "name": "animate",
+                    "type": "element",
+                    "value": "",
+                    "attributes": {
+                        "attributeName": "stroke-dashoffset",
+                        "from": "8",
+                        "to": "0",
+                        "dur": "2s",
+                        "repeatCount": "indefinite"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
