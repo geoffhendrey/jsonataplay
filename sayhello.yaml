@@ -1,0 +1,7 @@
+name: SayHello
+props:
+  name: World
+view:
+  - - div
+      {}
+      /${ "Hello, "  & props.name  &  "!" }
