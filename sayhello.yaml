@@ -3,5 +3,5 @@ props:
   name: World
 view:
   - - div
-      {}
-      /${ "Hello, "  & props.name  &  "!" }
+    - {}
+    - /${ "Hello, "  & props.name  &  "!" }
