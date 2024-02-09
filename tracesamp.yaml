@@ -1,0 +1,2 @@
+IndexFilters:
+  - { type: "include", filter: "${function($e){$e.statusCode = 'ERROR'}}", samplingRate:1.0} # select all traces with ERROR status;
